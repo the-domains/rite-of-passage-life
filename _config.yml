@@ -1,0 +1,28 @@
+name: Rite of Passage Life
+favicon: null
+layout_spectrum: 0.7278120543342084
+typography_spectrum: 0.2750389769207686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7240509199909866
+  lightness: 0.5473103041294962
+  saturation: 0.05582028743810952
+  rhythmicContrast: 0.09025784209370613
+purpose: []
